@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer based in Georgia, specializing in robust backend architectures, type-safe database schemas, and strictly-typed client-side web ecosystems.
 
-[Live Portfolio](https://github.com/Nikabaloziani) | [LinkedIn](https://www.linkedin.com/in/nika-baloziani-515265316/) | [Email](mailto:balozianinikolozi@gmail.com)
+[Live Portfolio](Nikabaloziani.github.io ) | [LinkedIn](https://www.linkedin.com/in/nika-baloziani-515265316/) | [Email](mailto:balozianinikolozi@gmail.com)
 
 ---
 
