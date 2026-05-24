@@ -1,16 +1,30 @@
-## Hi there 👋
+# Nika Baloziani
 
-<!--
-**Nikabaloziani/Nikabaloziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer based in Georgia, specializing in robust backend architectures, type-safe database schemas, and strictly-typed client-side web ecosystems.
 
-Here are some ideas to get you started:
+[Live Portfolio](https://github.io) | [LinkedIn](https://linkedin.com) | [Email](mailto:balozianinikolozi@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Infrastructure Stack
+
+*   **Backend Engineering:** C# • .NET Core • ASP.NET Core • Entity Framework Core
+*   **Database Architectures:** SQL • Relational Database Design • Schema Optimization
+*   **Frontend Development:** Angular • TypeScript • JavaScript (ES6+) • HTML5 • CSS3
+*   **Workflow Systems:** Git • GitHub Architecture • Technical Code Review
+
+---
+
+### 🎓 Qualifications & Background
+
+*   **Graduate | IT Academy STEP**
+    *   Completed comprehensive enterprise software engineering track.
+    *   Focused on object-oriented programming (OOP), design patterns, and enterprise system scaling.
+
+---
+
+### 📈 GitHub Metrics
+
+<p align="left">
+  <img src="https://vercel.app" alt="Nika's GitHub Stats" width="400" />
+</p>
